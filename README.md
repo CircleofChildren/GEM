@@ -12,3 +12,8 @@ Creation & Collaboration
 We are designing a social media platform that will be clean, attractive, extremely user friendly and highly functional. Essentially, we want it to look beautiful and flow intuitively. We have most of the concept and design laid out, but we need a team of programmers and web designers to pull it all together.
 
 By joining our team you will be helping to make the world a better place. You will be contributing to a paradigm-shifting project that empowers youth, builds community, creates an economy of gift-giving, and redesigns education through a project and service-based model that features open source access to information and do-it-yourself resources. 
+
+Please visit us at <http://circleofchildren.org/wp/?page_id=1453> to learn more.
+If you are interested in joining our team or volunteering, please contact: director@circleofchildren.org
+
+Thank you GitHub Community and Coders for Good!
